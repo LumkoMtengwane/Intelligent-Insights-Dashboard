@@ -4,17 +4,17 @@ A powerful Streamlit application for automated data analysis, quality assessment
 
 ## Features
 
-✨ **Core Features:**
-- 📊 **Data Upload & Exploration** - Upload CSV files and explore data interactively
-- 📈 **Data Profiling** - Automatic data type detection and statistical summaries
-- ✓ **Data Quality Checks** - Identify missing values, outliers, and data issues
-- 🎨 **Interactive Visualizations** - Dynamic charts with Plotly (histograms, scatter plots, heatmaps, etc.)
-- 🤖 **AI-Powered Insights** - Generate insights using Azure OpenAI
-- 🧠 **ML Recommendations** - Automatic machine learning task detection and model suggestions
-- 🔍 **Natural Language Queries** - Ask questions about your data in plain English
-- 📄 **Report Generation** - Export findings as PDF reports
-- 📤 **Cloud Storage Integration** - Upload charts and reports to Azure Blob Storage
-- 📊 **LLM Observability** - Track and trace all AI/LLM calls with Langfuse
+ **Core Features:**
+-  **Data Upload & Exploration** - Upload CSV files and explore data interactively
+-  **Data Profiling** - Automatic data type detection and statistical summaries
+-  **Data Quality Checks** - Identify missing values, outliers, and data issues
+-  **Interactive Visualizations** - Dynamic charts with Plotly (histograms, scatter plots, heatmaps, etc.)
+-  **AI-Powered Insights** - Generate insights using Azure OpenAI
+-  **ML Recommendations** - Automatic machine learning task detection and model suggestions
+-  **Natural Language Queries** - Ask questions about your data in plain English
+-  **Report Generation** - Export findings as PDF reports
+-  **Cloud Storage Integration** - Upload charts and reports to Azure Blob Storage
+-  **LLM Observability** - Track and trace all AI/LLM calls with Langfuse
 
 ## Quick Start
 
