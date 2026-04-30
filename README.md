@@ -1,6 +1,6 @@
 # Data Analysis & Insights Dashboard
 
-A powerful Streamlit application for automated data analysis, quality assessment, and AI-powered insights. This dashboard helps you understand your data through interactive visualizations, statistical summaries, and machine learning recommendations.
+This is a powerful Streamlit application for automated data analysis, quality assessment, and AI-powered insights. As a data professional, I understand that adequate data preprocessing is a big part of the data pipeline and that exploratory data analysis informs a big part of preprocessing decisions, therefore I created this dashboard that helps you understand your data through interactive visualizations, statistical summaries, and machine learning recommendations.
 
 ## Features
 
