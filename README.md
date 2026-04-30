@@ -227,5 +227,10 @@ For issues or questions:
 - Natural language queries
 
 ---
+Application scrennshots:
+<img width="1910" height="1030" alt="dashboard_landing page" src="https://github.com/user-attachments/assets/d47b6e6b-fcc1-483c-bd9b-fbfdb4a55f38" />
 
-**Made with ❤️ using Streamlit and Azure AI**
+<img width="1898" height="1023" alt="dashboard_insights" src="https://github.com/user-attachments/assets/5f9badec-405e-4590-8831-68ace180c3d7" />
+
+
+**Made using Streamlit and Azure AI**
